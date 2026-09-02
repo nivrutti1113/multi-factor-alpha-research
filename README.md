@@ -1,6 +1,7 @@
 # Cross-Sectional Equity Momentum & Value Multi-Factor Pipeline
 
-[![Quantitative Pipeline CI](https://github.com/your-username/quant-momentum-pipeline/actions/workflows/tests.yml/badge.svg)](https://github.com/your-username/quant-momentum-pipeline/actions)
+[![Quantitative Pipeline CI](https://github.com/nivrutti1113/multi-factor-alpha-research/actions/workflows/tests.yml/badge.svg)](https://github.com/nivrutti1113/multi-factor-alpha-research/actions)
+
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Tests](https://img.shields.io/badge/tests-5%20passed-brightgreen.svg)](tests/test_no_lookahead.py)
@@ -112,8 +113,9 @@ An institutional-grade quantitative research pipeline built in Python evaluating
 
 ### 1. Installation
 ```bash
-git clone https://github.com/your-username/quant-momentum-pipeline.git
-cd quant-momentum-pipeline
+git clone https://github.com/nivrutti1113/multi-factor-alpha-research.git
+cd multi-factor-alpha-research
+
 python -m venv venv
 .\venv\Scripts\activate          # Windows (or source venv/bin/activate on Mac/Linux)
 pip install -r requirements.txt
