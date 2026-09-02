@@ -1,0 +1,37 @@
+Date,Action,Ticker,Security
+2015-01-27,REMOVE,PETM,PetSmart Inc
+2015-03-18,REMOVE,KORS,Michael Kors Holdings
+2015-07-09,REMOVE,FDO,Family Dollar Stores
+2015-10-02,REMOVE,SIAL,Sigma-Aldrich Co
+2016-01-05,REMOVE,CPGX,Columbia Pipeline Group
+2016-05-19,REMOVE,ENDP,Endo International
+2016-09-16,REMOVE,OI,Owens-Illinois Inc
+2016-10-07,REMOVE,EMC,EMC Corporation
+2016-11-01,REMOVE,AA,Alcoa Inc
+2017-03-20,REMOVE,FSLR,First Solar Inc
+2017-07-26,ADD,AOS,A. O. Smith Corp
+2017-08-28,REMOVE,WFM,Whole Foods Market
+2017-10-18,REMOVE,LVLT,Level 3 Communications
+2017-12-29,REMOVE,BCR,C. R. Bard Inc
+2018-06-07,REMOVE,MON,Monsanto Co
+2018-06-19,ADD,TWTR,Twitter Inc
+2018-06-19,REMOVE,GE,General Electric Co
+2018-07-02,REMOVE,DPS,Dr Pepper Snapple Group
+2018-10-01,REMOVE,ANDV,Andeavor
+2018-12-05,REMOVE,COL,Rockwell Collins
+2019-11-20,REMOVE,CELG,Celgene Corp
+2020-05-12,REMOVE,CPRI,Capri Holdings
+2020-12-21,ADD,TSLA,Tesla Inc
+2020-12-21,REMOVE,AIV,Apartment Investment & Management
+2021-07-21,REMOVE,ALXN,Alexion Pharmaceuticals
+2021-07-21,ADD,MRNA,Moderna Inc
+2022-10-28,REMOVE,TWTR,Twitter Inc
+2022-12-19,REMOVE,VNO,Vornado Realty Trust
+2023-03-15,REMOVE,SIVB,SVB Financial Group
+2023-03-20,REMOVE,SBNY,Signature Bank
+2023-05-04,REMOVE,FRC,First Republic Bank
+2023-09-18,ADD,KVUE,Kenvue Inc
+2023-12-18,ADD,LULU,Lululemon Athletica
+2024-03-18,ADD,SMCI,Super Micro Computer
+2024-06-24,ADD,KKR,KKR & Co Inc
+2024-06-24,ADD,CRWD,CrowdStrike Holdings

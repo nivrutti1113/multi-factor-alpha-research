@@ -1,0 +1,19 @@
+# Quantitative Research Pipeline Configuration
+
+# Pipeline Date Parameters
+start_date: "2014-01-01"
+end_date: "2024-12-31"
+backtest_start_year: 2015
+backtest_end_year: 2024
+
+# Signal Parameters (Jegadeesh-Titman 12-1 Momentum)
+lookback_days: 252       # ~12 months lookback
+skip_days: 21            # ~1 month skipped window to eliminate short-term reversal
+num_quantiles: 5         # Quintile portfolio (Long Q5, Short Q1)
+
+# Portfolio & Cost Parameters
+cost_bps: 10.0           # 10 basis points per trade on turnover (0.0010)
+delisting_return_pct: -0.30  # Shumway (1997) -30% conservative delisting return assumption
+
+# Survivorship Bias Safeguard Flag
+use_survivorship_bias_correction: true
